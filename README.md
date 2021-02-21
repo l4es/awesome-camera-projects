@@ -9,6 +9,8 @@ Collection of interesting camera projects.
 [3DVisionlabs Hemi-Stereo NX](https://3dvisionlabs.com/hs-nx/)  
 [Carnegie-Robotics Multisense](https://carnegierobotics.com/products/multisense-s21/)
 [Mirsee Hardon](https://mirsee.com/hadron/)  
+[Firefly CAMC1109S2U](en.t-firefly.com/product/dev/camc1109s2u.html)  
+[Firefly CAMC1126S2U](http://en.t-firefly.com/product/dev/camc1126s2u.html)  
 [FootfallCam 3D-People-Counter](https://www.footfallcam.com/Product/3DPeopleCounter)  
 [HELLA Aglaia People Sensors](https://people-sensing.com/public-transport/#3d-imaging)  
 [Care-Drive Passenger-Statistics-System](http://www.care-drive.com/product/bus-people-counter-system/)  
