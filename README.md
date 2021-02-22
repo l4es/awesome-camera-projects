@@ -28,4 +28,5 @@ Collection of interesting camera projects.
 
 
 ## Hardware/Accessories
-[Capable Robot](https://capablerobot.com/products/)
+[Capable Robot](https://capablerobot.com/products/)  
+[Aitech Rugged General Purpose GPUs](https://aitechsystems.com/mil-aero/gpgpu-mil-aero/)   
