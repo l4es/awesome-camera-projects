@@ -44,6 +44,8 @@ Collection of interesting camera projects.
 ## Video Servers
 [SMP-Robotics T9](https://smprobotics.com/technology_autonomous_mobile_robot/video_analytics_security_system/)  
 [SmarterAI Gateway](https://smarterai.camera/#smarter-ai-gateway)  
+[VISION4CE Video Processing And Distribution Unit](https://www.vision4ce.com/products/video-processing-and-distribution-unit/)  
+[VISION4CE Digital Video Recorder](https://www.vision4ce.com/products/digital-video-recording/)  
 
 ## Hardware/Accessories
 [Capable Robot](https://capablerobot.com/products/)  
