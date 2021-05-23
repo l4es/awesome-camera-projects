@@ -2,11 +2,15 @@
 
 Collection of interesting camera projects.
 
+## Astronomy Cameras
+[Fripon Freeture](https://fripon.github.io/freeture/)  
+[Allsky](https://www.instructables.com/Wireless-All-Sky-Camera/) 
+
 ## Smart Cameras
 [SmarterAI Security-Camera](https://smarterai.camera/#smarter-ai-security-camera)  
 [Waveshare OpenNCC-Lite-4G8M](https://www.waveshare.com/product/ai/cameras/single-cameras/openncc-knight-4g8m.htm)  
 [Charmed Labs AI-driven-Vizy-camera](https://www.electronics-lab.com/ai-powered-vizy-camera-is-live-on-kickstarter/)  
-[Ekin X-SPOTTER]()https://ekin.com/en/ekin-x-spotter  
+[Ekin X-SPOTTER](https://ekin.com/en/ekin-x-spotter)  
 
 ## Stereo Cameras
 [3DVisionlabs Hemi-Stereo NX](https://3dvisionlabs.com/hs-nx/)  
